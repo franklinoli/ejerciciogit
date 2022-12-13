@@ -10,5 +10,7 @@ public class EjercicioStringsGit {
         ejercicio6 = sc.nextLine();
         System.out.println("Escriba un número entre 0 y " + (ejercicio6.length() - 1));
         posi1 = sc.nextInt();
+        System.out.println("Dímelo");
+        
     }
 }
